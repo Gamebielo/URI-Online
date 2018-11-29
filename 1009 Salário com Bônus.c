@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// URI ONLINE exercÌcio 1009 (Sal·rio com BÙnus)
+// URI ONLINE exerc√≠cio 1009 (Sal√°rio com B√¥nus)
 
 int main() {
 
