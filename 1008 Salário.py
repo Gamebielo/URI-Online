@@ -1,5 +1,3 @@
-# 1008 Salário
-
 funcionario = int(input())
 horas = int(input())
 salario = float(input())
