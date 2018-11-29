@@ -1,2 +1,2 @@
 # URI-Online
-Exercises (C and Python)
+Exercises (C, C++ and Python)
