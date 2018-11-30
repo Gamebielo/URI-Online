@@ -17,6 +17,5 @@ int main()
 
     cout << fixed << setprecision(4) << dist << endl;
 
-    system("pause");
     return 0;
 }
