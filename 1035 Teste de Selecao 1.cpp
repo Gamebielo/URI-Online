@@ -1,6 +1,4 @@
 #include <iostream> // Biblioteca 'stdio.h' evoluída do C++
-// #include <stdlib.h>
-// #include <cmath>
 
 using namespace std;
 
